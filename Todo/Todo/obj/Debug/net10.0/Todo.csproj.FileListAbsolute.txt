@@ -1,0 +1,14 @@
+D:\Ky3-2026\MonThu6\Todo\Todo\bin\Debug\net10.0\Todo.exe
+D:\Ky3-2026\MonThu6\Todo\Todo\bin\Debug\net10.0\Todo.deps.json
+D:\Ky3-2026\MonThu6\Todo\Todo\bin\Debug\net10.0\Todo.runtimeconfig.json
+D:\Ky3-2026\MonThu6\Todo\Todo\bin\Debug\net10.0\Todo.dll
+D:\Ky3-2026\MonThu6\Todo\Todo\bin\Debug\net10.0\Todo.pdb
+D:\Ky3-2026\MonThu6\Todo\Todo\obj\Debug\net10.0\Todo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky3-2026\MonThu6\Todo\Todo\obj\Debug\net10.0\Todo.AssemblyInfoInputs.cache
+D:\Ky3-2026\MonThu6\Todo\Todo\obj\Debug\net10.0\Todo.AssemblyInfo.cs
+D:\Ky3-2026\MonThu6\Todo\Todo\obj\Debug\net10.0\Todo.csproj.CoreCompileInputs.cache
+D:\Ky3-2026\MonThu6\Todo\Todo\obj\Debug\net10.0\Todo.dll
+D:\Ky3-2026\MonThu6\Todo\Todo\obj\Debug\net10.0\refint\Todo.dll
+D:\Ky3-2026\MonThu6\Todo\Todo\obj\Debug\net10.0\Todo.pdb
+D:\Ky3-2026\MonThu6\Todo\Todo\obj\Debug\net10.0\Todo.genruntimeconfig.cache
+D:\Ky3-2026\MonThu6\Todo\Todo\obj\Debug\net10.0\ref\Todo.dll
